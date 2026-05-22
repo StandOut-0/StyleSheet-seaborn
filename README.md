@@ -101,3 +101,17 @@ seaborn/
 
 - [Seaborn 문서](https://seaborn.pydata.org/examples/index.html)
 - [Streamlit](https://streamlit.io/)
+
+<img width="1057" height="1482" alt="image" src="https://github.com/user-attachments/assets/ae4a5a60-4a4f-4021-8c4d-3cd50fb9d6ac" />
+<img width="1057" height="1292" alt="image" src="https://github.com/user-attachments/assets/3e7e572f-9ae9-485f-bbac-d324d76da4bd" />
+<img width="1057" height="1769" alt="image" src="https://github.com/user-attachments/assets/035fba4a-b27e-42df-9920-6e1bafdb052f" />
+<img width="1057" height="1769" alt="image" src="https://github.com/user-attachments/assets/455339fa-2549-4935-99e7-246f518b0432" />
+<img width="1057" height="1769" alt="image" src="https://github.com/user-attachments/assets/0ee14fa2-5020-4905-85fb-9f3ef0c3ed62" />
+<img width="1057" height="1125" alt="image" src="https://github.com/user-attachments/assets/53884247-a87d-47a2-b39c-11196783cd95" />
+<img width="1057" height="1529" alt="image" src="https://github.com/user-attachments/assets/7292fac9-c20a-4180-b830-ecd66185c982" />
+<img width="1057" height="1460" alt="image" src="https://github.com/user-attachments/assets/2fda51c3-48ac-4230-ba79-1c2f08b57b01" />
+<img width="1057" height="1555" alt="image" src="https://github.com/user-attachments/assets/9a07bdac-d0a3-4c24-a250-812785b71000" />
+<img width="1057" height="806" alt="image" src="https://github.com/user-attachments/assets/db9936c4-95d3-4d44-9ddb-2d327f48931b" />
+
+
+
