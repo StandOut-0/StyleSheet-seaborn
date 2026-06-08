@@ -1,6 +1,7 @@
 # 📊 Seaborn 예제 갤러리
 
-공식 seaborn 문서의 모든 예제 그래프를 보여주는 아름다운 Streamlit 애플리케이션입니다. 깔끔하고 현대적인 인터페이스로 다양한 플롯 유형을 대화형으로 탐색해보세요.
+공식 seaborn 문서의 모든 예제 그래프를 보여주는 아름다운 Streamlit 애플리케이션입니다. 깔끔하고 현대적인 인터페이스로 다양한 플롯 유형을 대화형으로 탐색해보세요.<br>
+https://stylesheet-seaborn.onrender.com
 
 ## 기능
 
